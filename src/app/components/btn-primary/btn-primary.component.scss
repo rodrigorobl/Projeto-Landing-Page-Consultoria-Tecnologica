@@ -13,7 +13,11 @@
 
   &.primary {
     color: white;
-    background: -webkit-linear-gradient(180deg, $primary-color, $secundary-color);
+    background: -webkit-linear-gradient(
+      180deg,
+      $primary-color,
+      $secundary-color
+    );
 
     font-size: 24px;
     font-weight: bold;

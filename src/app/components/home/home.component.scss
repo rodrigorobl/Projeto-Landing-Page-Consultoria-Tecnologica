@@ -39,12 +39,12 @@ main {
     border-bottom: 10px solid $secundary-color;
     padding: 40px;
 
-      h2 {
-        font-size: 60px;
-        font-weight: 600;
-        font-family: "Roboto", sans-serif;
-        color: $primary-text;
-      }
+    h2 {
+      font-size: 60px;
+      font-weight: 600;
+      font-family: "Roboto", sans-serif;
+      color: $primary-text;
+    }
   }
 
   p {
@@ -53,7 +53,11 @@ main {
     font-weight: 300;
 
     b {
-      background: -webkit-linear-gradient(90deg, $primary-color, $secundary-color);
+      background: -webkit-linear-gradient(
+        90deg,
+        $primary-color,
+        $secundary-color
+      );
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -75,5 +79,3 @@ main {
     flex-direction: row;
   }
 }
-
-
