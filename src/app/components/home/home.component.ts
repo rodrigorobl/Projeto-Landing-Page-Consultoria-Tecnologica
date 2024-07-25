@@ -5,6 +5,7 @@ import { HeaderComponent } from '../header/header.component';
 import { BtnPrimaryComponent } from '../btn-primary/btn-primary.component';
 import { NewsletterFormComponent } from '../newsletter-form/newsletter-form.component';
 import { BenefitComponent } from '../benefit/benefit.component';
+import { FooterComponent } from '../footer/footer.component';
 
 @Component({
   selector: 'app-home',
@@ -14,7 +15,8 @@ import { BenefitComponent } from '../benefit/benefit.component';
     NgOptimizedImage,
     BtnPrimaryComponent,
     NewsletterFormComponent,
-    BenefitComponent
+    BenefitComponent,
+    FooterComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
