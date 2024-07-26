@@ -13,14 +13,8 @@ Este é um projeto de Landing Page desenvolvido com Angular 17. A Landing Page �
 
 - Layout responsivo
 - Design moderno e limpo
-- Formulário de contato
-- Integração com redes sociais
-
-## Estrutura do Projeto
-
-```bash
-landing-page/
-```
+- Formulário de inscrição em newsletter
+- Utilizando o json-server para simulação de inscrição de newsletter
 
 ## Instalação
 1. Clone o repositório: 
@@ -52,6 +46,11 @@ ng serve
 ```
 Abra o navegador e acesse http://localhost:4200/.
 
+```bash
+
+  json-server db.json
+  
+```
 
 ## Layout
 O layout desta Landing Page foi inspirado no design do [Figma](https://www.figma.com/design/JbHAcivlz9PqqnWfzoZU8W/Portfolio---LIVE-Angular?node-id=2265-58&t=DYWDX5UmMvJgXelW-0) criado por Fernanda Kipper, adaptado com a minha logo e outras personalizações.
