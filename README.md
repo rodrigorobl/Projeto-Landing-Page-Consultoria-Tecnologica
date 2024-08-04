@@ -4,10 +4,10 @@ Este Ã© um projeto de Landing Page desenvolvido com Angular 17. A Landing Page Ã
 
 ## Tecnologias Utilizadas
 
-- [Angular 17](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [SCSS](https://sass-lang.com/)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Funcionalidades
 
