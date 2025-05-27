@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:Projeto-Landing-Page-Consultoria": "node dist/projeto-landing-page-consultoria/server/server.mjs"
+    "serve:ssr:Projeto-Landing-Page-Consultoria": "node dist/projeto-landing-page-consultoria/server/server.mjs",
+    "dev": "ng serve"
   },
   "private": true,
   "dependencies": {
